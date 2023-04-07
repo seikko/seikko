@@ -1,4 +1,4 @@
-# 💫 Naber ?  :
+  💫 Hi :)    
 I'm Backend Developer <br>C# .NET<br>HTML,CSS,JS<br>I am interested in Cyber ​​security as a hobby.
 
 
